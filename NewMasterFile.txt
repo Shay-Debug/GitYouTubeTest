@@ -2,4 +2,8 @@ new file added to master
 
 This example to pull from the local repo git 
 
+<<<<<<< HEAD
 This is to try to pull from the remote repo without this info being updated in the remote repo 
+=======
+try to pull without making this change in your local git
+>>>>>>> 386c364850dafeecc09a053cdcd6a355ee0625eb
