@@ -1,1 +1,3 @@
 new file added to master
+
+This example to pull from the local repo git 
